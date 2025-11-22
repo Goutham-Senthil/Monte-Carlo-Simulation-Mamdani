@@ -80,7 +80,7 @@ Because this repository is inspired by the original [Kaggle notebook](https://ww
 
 ## Requirements
 
-This code was run on a python environment runing Python 3.10.0
+This code was run on a python environment running Python 3.10.0
 
 The libraries used for this project are given below
 
