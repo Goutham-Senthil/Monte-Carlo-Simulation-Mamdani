@@ -30,7 +30,7 @@ There 2 main sources of data:
 2. Proposed Policy Values from Mamdani
 
 
-### 1.  Baseline Values
+- 1.  Baseline Values
 
 All baseline FY 2025 financial values used in this model are taken from:
 
@@ -53,7 +53,7 @@ These values include:
 - Governmental Activities program revenues  
 - Governmental Activities general revenues  
 
-### 2.  Proposed Policy Values Inspired by Mamdani
+- 2.  Proposed Policy Values Inspired by Mamdani
 
 The policy cost estimates used in this repository are modeled assumptions inspired by the public descriptions of Zohran Mamdani’s proposals.
 
