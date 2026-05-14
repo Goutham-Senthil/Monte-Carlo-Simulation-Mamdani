@@ -41,9 +41,10 @@ Of the Comptroller
 For the Fiscal Years Ended June 30, 2025 and 2024
 ```
 
-Link to the data source 
-[ACFR 2025 website](https://comptroller.nyc.gov/reports/annual-comprehensive-financial-reports/)
-[ACFR 2025 pdf](https://comptroller.nyc.gov/wp-content/uploads/documents/113208_Whitebook_bookmarked.pdf)
+Link to the data sources
+
+1. [ACFR 2025 website](https://comptroller.nyc.gov/reports/annual-comprehensive-financial-reports/)
+2. [ACFR 2025 pdf](https://comptroller.nyc.gov/wp-content/uploads/documents/113208_Whitebook_bookmarked.pdf)
 
 
 Values were manually extracted from:
